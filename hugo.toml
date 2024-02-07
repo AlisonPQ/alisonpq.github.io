@@ -15,10 +15,10 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Alison Blog" # Set a different text for the header on the home page
+  homeTitle = "Alison's Blog" # Set a different text for the header on the home page
   subtitle = "Why was the JavaScript developer sad? Because he didn't know how to NULL his feelings!"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/alisonparisaca.jpg" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -27,12 +27,12 @@ pygmentsCodefencesGuessSyntax = true
   readingTime = true
   wordCount = true
   useHLJS = false
-  socialShare = true
+  socialShare = false
   delayDisqus = true
   showRelatedPosts = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -88,29 +88,6 @@ disclaimerText = "The opinions expressed herein are my own personal opinions and
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
     weight = 3
 
 [[menu.main]]
