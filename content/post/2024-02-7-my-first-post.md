@@ -8,7 +8,7 @@ One day at a meeting with friends, while we were eating hamburgers and drinking 
 
 This event reminded me that I always wanted a blog, I like to share knwoledge about what I have learnt for some reason I feel useful lol.
 
-As first post, here..., I was planning this blog, I wanted to develop this one with React (yeah, becasuse I have skills related to it) buuut I din't wanna spent too much time on bolg development because I think on a blog the most important things are the posts, right?
+As first post, here..., I was planning this blog, I wanted to develop this one with React (yeah, becasuse I have skills related to it) buuut I din't wanna spent too much time on blog development because I think on a blog the most important things are the posts, right?
 
 I researched how to do a blog based to Markdown, as result, I found [Hugo](https://gohugo.io/), this is a framework to generate pages easily, tecnically is a static site generator. 
 
@@ -52,3 +52,5 @@ You can take a look my [blog repository](https://github.com/AlisonPQ/blog)
 - [Hugo](https://gohugo.io/)
 - Choose a [theme](https://themes.gohugo.io/)
 - Deploy with [Github actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+That's all folks.
