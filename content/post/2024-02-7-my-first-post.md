@@ -39,6 +39,10 @@ Use `hugo new content posts/my-first-post.md` as example.
 
 Note: review hugo and the chosen theme documentation.
 
+#### Run locally
+
+Use `hugo server -D`
+
 #### Deploy with GitHub Pages
 
 In your project you should create a file called `hugo.yaml` which is on `.github/workflows/hugo.yaml` where are all the steps that you need to deplot it, you will need to push everything on `main` branch, make sure to select `GitHub Actions` as `Source` on **settings>pages**.
